@@ -6,3 +6,4 @@ extras/
 printable_docs/
 docs/
 backups/
+bin/jmeter.log
